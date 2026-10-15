@@ -1,1 +1,9 @@
 stakeholder_id,name_or_role,organization,interest,influence,attitude,strategy,owner
+ST-01,"Замовник від господарської частини, відповідальний за приміщення та обладнання",господарська частина,high,high,supporter,manage_closely,PM
+ST-02,"Замовник від навчальної частини, власник даних розкладу занять",навчальна частина,high,high,supporter,manage_closely,BA
+ST-03,"Завідувачі кафедр, які погоджують бронь своїх приміщень і втрачають неформальний пріоритет",кафедри,low,high,blocker,keep_satisfied,PM
+ST-04,"Служба ІТ академії: акаунти, календарний сервіс, вивантаження розкладу, хостинг",університетська ІТ-служба,low,high,neutral,keep_satisfied,Dev
+ST-05,Погоджувачі заявок: відповідальні за приміщення,підрозділи академії,high,low,neutral,keep_informed,BA
+ST-06,"Викладачі й співробітники, які подають заявки",академія,high,low,supporter,keep_informed,UX
+ST-07,Студентські організації: бронюють найчастіше і найпізніше,студентське самоврядування,high,low,neutral,keep_informed,PM
+ST-08,"Комендант корпусу, який відкриває аудиторії",господарська частина,high,low,neutral,keep_informed,QA
