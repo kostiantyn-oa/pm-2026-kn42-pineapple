@@ -43,9 +43,9 @@ if __name__ == "__main__":
         p50, p85 = simulate(220, data)
         print(f"  {name}: velocity {data}, P50 = {p50}, P85 = {p85}")
 
-    # Мої дані: velocity двох спринтів з velocity.csv
+    # Мої дані: velocity двох спринтів з velocity.csv і склад першого релізу після події курсу
     mine = [16, 16]
     print("Мої дані, velocity", mine)
-    for name, remaining in (("весь перший реліз", 59), ("залишок після двох спринтів", 27)):
+    for name, remaining in (("весь перший реліз", 51), ("залишок після двох спринтів", 19)):
         p50, p85 = simulate(remaining, mine)
         print(f"  {name}: {remaining} points, P50 = {p50}, P85 = {p85}")
