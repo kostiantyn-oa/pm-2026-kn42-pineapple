@@ -16,8 +16,8 @@
 | Варіант вхідних умов | V09 |
 | Трекер | GitHub Projects |
 | Дошка | https://github.com/users/kostiantyn-oa/projects/1 |
-| Валюта проєкту |  |
-| Contingency, % |  |
+| Валюта проєкту | грн |
+| Contingency, % | 7 |
 
 ### Про проєкт
 

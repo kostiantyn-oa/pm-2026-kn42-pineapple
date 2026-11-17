@@ -1,1 +1,6 @@
 role,fte,hours,rate,source,note
+PM,0.5,320,380,https://dou.ua/lenta/articles/salary-report-managers-summer-2026/,"Senior Project Manager 3400 проти Senior Software Engineer 4500 доларів: ставка 0,76 від Dev; PM відповідає за строк і бюджет"
+BA,0.5,320,380,https://dou.ua/lenta/articles/salary-report-data-summer-2026/,"Senior Business Analyst 3400 проти 4500 доларів у Senior Software Engineer: ставка 0,76 від Dev; вузьке місце вимог на 50%"
+Dev,1.5,960,500,https://dou.ua/lenta/articles/deftech-salary-report-summer-2026/,Опорна ставка: Senior Software Engineer 4500 доларів; два розробники (100% і 50%) за однією ставкою в одному рядку
+QA,0.5,320,355,https://dou.ua/lenta/articles/salary-report-qa-summer-2026/,"Senior QA Engineer 3200 проти 4500 доларів: ставка 0,71 від Dev"
+UX,0.25,160,350,https://dou.ua/lenta/articles/salary-report-non-tech-summer-2026/,"UI/UX і продуктові дизайнери 2475 проти 3500 доларів у розробників усіх рівнів (Senior-медіани для UX немає): ставка 0,71 від Dev, округлено до 350"
